@@ -1,17 +1,25 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
-### Date created
-Include the date you created this project and README file.
+>### Date created
+This project and README file were developed on Feb 22, 2025.
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data Analysis Project.
 
 ### Description
-Describe what your project is about and what it does
+Thie project is part of the Udacity training courses that focus on Python and Git training. The analysis code is bikeshare.py and it will process the bikeshare data for one of three cities - Chicago, New York City or Washington.  The code and other associated files will be under version control via Git and GitHub. 
 
 ### Files used
-Include the files used
+The files included are:
+- bikeshare.py : Python source code
+- chicago.csv : Bikeshare test data for the city of Chicago.  (Note: test data unavailable at this time for the remainihg two citiies.)
+- .gitignore : Excludes .csv test data file from remote repo updates.
+- READEME.md : Project documentation file.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The following sources are acknowledged.
+1. Udacity training courses.
+    https://www.udacity.com/dashboard
+2. Google for providing information related to Git questions and issues.
+    https://www.google.com
+3. BBC new homepage for providing news and sports diversions from work during break periods.
+    https://www.bbc.com
 
