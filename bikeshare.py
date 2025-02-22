@@ -275,6 +275,9 @@ def show_data(df):
 
 
 def main():
+    """
+    Loop until the user decides they want to stop.
+    """
     while True:
         city, month, day = get_filters()
         print('Selection summary: City =', city.title())
