@@ -10,7 +10,8 @@ Thie project is part of the Udacity training courses that focus on Python and Gi
 ### Files used
 The files included are:
 - bikeshare.py : Python source code
-- chicago.csv : Bikeshare test data for the city of Chicago.  (Note: test data unavailable at this time for the remainihg two citiies.)
+- chicago.csv : Bikeshare test data for the city of Chicago.  
+    Note: test data unavailable at this time for the remainihg two citiies.  If the extra test files are requied then they  should be named 'washington.csv' and 'newyourkcity.csv'.
 - .gitignore : Excludes .csv test data file from remote repo updates.
 - READEME.md : Project documentation file.
 
