@@ -263,7 +263,7 @@ def user_stats(df):
     print('-'*40)
 
 
-def show_data(df):
+def show_data_page(df):
     """Display the raw data 5 lines at a time."""
     
     show_data = input('\nWould you like to display 5 lines of the raw data? Enter yes or no.\n')
@@ -289,7 +289,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-        show_data(df)
+        show_data_page(df)
         
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() not in 'yes':
