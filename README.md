@@ -5,7 +5,10 @@ This project and README file were developed on Feb 22, 2025.
 Bikeshare Data Analysis Project.
 
 ### Description
-Thie project is part of the Udacity training courses that focus on Python and Git training. The analysis code is bikeshare.py and it will process the bikeshare data for one of three cities - Chicago, New York City or Washington.  The code and other associated files will be under version control via Git and GitHub. 
+This project is part of the Udacity training courses that focus on Python and Git training. The analysis code is bikeshare.py and it will process the bikeshare data for one of three cities - Chicago, New York City or Washington.  The code and other associated files will be under version control via Git and GitHub. 
+
+### Limitations 
+As it is currently presented, the bikeshare code will offer the user options regarding which city data they want to analyze and if they want the data filtered by month and/or day of week.  The user MUST only select 'chicago' as the city for analysis because the test data files for the remaining two cities are not currently available.  If and when they are available then this restriction will no longer apply. (See below for file details.)
 
 ### Files used
 The files included are:
@@ -24,3 +27,8 @@ The following sources are acknowledged.
 3. BBC new homepage for providing news and sports diversions from work during break periods.
     https://www.bbc.com
 
+### Known bugs
+2/24/25: None at time of writing
+
+### List of revisions
+2/24/25:  Initial version of code and documentation
